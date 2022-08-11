@@ -117,6 +117,21 @@ ul li span{
     margin-right: 6px;
 }
 
+@media screen and (min-width:1200px) {
+
+    .main{
+        margin: 4rem 4rem;
+    }
+    
+    .image{
+        background-position: top;
+        min-height: 26rem;
+    }
+
+    .image .purple-dark{
+        min-height: 26rem;
+    }
+}
 
 @media screen and (min-width:1440px) {
 
@@ -137,13 +152,13 @@ ul li span{
 
     .image{
         background-image: url('images/image-header-desktop.jpg');
+        background-position: center;
         border-top-left-radius: 0;
         border-top-right-radius: .3rem;
         border-bottom-right-radius: .3rem;
     }
 
-    .image .purple-dark{
-      
+    .image .purple-dark{      
         min-height: 29.6rem;
     }
 
