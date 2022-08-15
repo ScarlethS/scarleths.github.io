@@ -48,11 +48,11 @@ h1{
     text-align: center;
 }
 
-.content h1 span{
+.content h1 .highlighter-span{
     color: hsl(277, 64%, 61%)
 }
 
-.image{
+.card-image{
     background-image: url('images/image-header-mobile.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -63,7 +63,7 @@ h1{
     min-height: 16.5rem;
 }
 
-.image .purple-dark{
+.card-image .purple-dark{
     background-color: rgba(115, 11, 151, .4);
     min-height: 16.5rem;
 }
@@ -123,12 +123,12 @@ ul li span{
         margin: 4rem 4rem;
     }
     
-    .image{
+    .card-image{
         background-position: top;
         min-height: 26rem;
     }
 
-    .image .purple-dark{
+    .card-image .purple-dark{
         min-height: 26rem;
     }
 }
@@ -150,7 +150,7 @@ ul li span{
     }
 
 
-    .image{
+    .card-image{
         background-image: url('images/image-header-desktop.jpg');
         background-position: center;
         border-top-left-radius: 0;
@@ -158,7 +158,7 @@ ul li span{
         border-bottom-right-radius: .3rem;
     }
 
-    .image .purple-dark{      
+    .card-image .purple-dark{      
         min-height: 29.6rem;
     }
 
