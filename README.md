@@ -26,13 +26,13 @@ In this challenge I reviewed the semantic HTML markup, and I learned the base of
 
 My project deployed, you can find below:
 
-- [GitHub Pages](https://scarleths.github.io/stats-preview-card-component.github.io/)
+- [Stats preview card component](https://scarleths.github.io/stats-preview-card-component.github.io/)
 
 ## My solution
 
 I completed this challenge, however, if you consider a better way to build this challenge or I need to fix any bug in my code, Please feel free to provide feedbacks.
  
- - [Github Repository](https://github.com/ScarlethS/stats-preview-card-component.github.io)
+ - [Stats preview card component - Github Repository](https://github.com/ScarlethS/stats-preview-card-component.github.io)
 
 
 
